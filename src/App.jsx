@@ -1,8 +1,8 @@
 function App() {
   return (
-    <section>
+    <section className="contenido">
       <header>
-        <img src="" alt="" />
+        <img src="public/logo.png" alt="" />
         <nav>
           <a href="">Servicios</a>
           <a href="">Contacto</a>
